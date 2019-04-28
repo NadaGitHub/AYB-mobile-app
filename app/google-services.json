@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503673565877",
+    "firebase_url": "https://ayb-asu.firebaseio.com",
+    "project_id": "ayb-asu",
+    "storage_bucket": "ayb-asu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503673565877:android:92384601125718ec",
+        "android_client_info": {
+          "package_name": "com.example.ayb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503673565877-1jfdoatr5f8jttbn61knq5p8vpvfvbah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqDLHYRNWjF-gLmiwzX-z6vrs49ritdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503673565877-1jfdoatr5f8jttbn61knq5p8vpvfvbah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
